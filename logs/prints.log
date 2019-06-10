@@ -1,0 +1,358 @@
+21:09:46.782 [main] INFO  resources.base - From the Pdp Page user is clicking on Get it now button
+21:10:10.914 [main] INFO  resources.base - Tenancy Information section is present on procurement checkout page
+21:10:10.955 [main] INFO  resources.base - Address of Use Section is present on procurement checkout page
+21:10:10.992 [main] INFO  resources.base - Payment & Billing Section is present on procurement checkout page
+21:10:11.031 [main] INFO  resources.base - Review Order Section is present on procurement checkout page
+21:10:13.166 [main] INFO  resources.base - From the procurement checkout page user is clicking on step#1 Yes button
+21:10:15.239 [main] INFO  resources.base - From the procurement checkout page user is clicking on step#1 continue button
+21:10:17.329 [main] INFO  resources.base - From the procurement checkout page user is clicking on step#1 continue button
+21:10:19.455 [main] INFO  resources.base - From the procurement checkout page user is clicking on step#3 continue button
+21:10:21.609 [main] INFO  resources.base - From the procurement checkout page user is clicking on submit order button
+21:11:14.479 [main] INFO  resources.base - From the Customer Portal user is clicking on notification icon
+21:11:14.696 [main] INFO  resources.base - All notifications tab is present on notification page
+21:11:14.730 [main] INFO  resources.base - Flagged tab is present on notification page
+21:12:28.969 [main] INFO  resources.base - From the Customer Portal user is clicking on User management from account menu
+21:13:18.294 [main] INFO  resources.base - User is entering ccp keyword in search box
+21:13:35.835 [main] INFO  resources.base - From the Customer Portal user is clicking on manage domains from account menu
+21:13:45.082 [main] INFO  resources.base - From the Customer Portal user is clicking on my profile from account menu
+21:14:29.116 [main] INFO  resources.base - From the Customer Portal user is clicking on Account settings from account menu
+20:54:44.735 [main] INFO  resources.base - From the Customer Portal user is clicking on Address Of use from account menu
+20:54:55.015 [main] INFO  resources.base - From the Address of Use page user is clicking on request address button
+20:55:24.456 [main] INFO  resources.base - From the Customer Portal user is clicking on Catalog Restrictions from account menu
+20:56:16.171 [main] INFO  resources.base - From the Customer Portal user is clicking on Change Passowrd Link from account menu
+20:56:47.869 [main] INFO  resources.base - From the Customer Portal user is clicking on payment Method Link from account menu
+20:56:57.359 [main] ERROR resources.base - From the Customer Portal user is clicking on Discover link under MarkITPlace Section
+20:57:11.686 [main] INFO  resources.base - From the Customer Portal user is clicking on Applications link under MarkITPlace Section
+20:57:19.394 [main] INFO  resources.base - From the Customer Portal user is clicking on Infrastructure link under MarkITPlace Section
+20:57:25.717 [main] INFO  resources.base - From the Customer Portal user is clicking on Platform link under MarkITPlace Section
+20:57:32.064 [main] INFO  resources.base - From the Customer Portal user is clicking on Consulting link under MarkITPlace Section
+20:57:39.620 [main] INFO  resources.base - From the Customer Portal user is searching the Microsoft service
+22:05:39.485 [main] INFO  resources.base - The title of the home page is captured
+22:27:24.066 [main] INFO  resources.base - The title of the home page is captured
+22:27:25.037 [main] INFO  resources.base - The title of the Shop page is Verified Successfully
+22:27:29.803 [main] INFO  resources.base - From the Home Page User has Clicked on MarkITPlace tab
+22:27:29.803 [main] INFO  resources.base - User has routed to the Shop Page after clicking on MarketPlace link
+22:27:31.828 [main] INFO  resources.base - From the Home Page User has Clicked on Manage tab
+22:27:33.852 [main] INFO  resources.base - From the Home Page User has Clicked on Insight tab
+22:27:34.096 [main] ERROR resources.base - Consulting link is found on home page
+22:27:34.131 [main] INFO  resources.base - DFP banner is appearing on the home page in the footer
+22:27:34.299 [main] INFO  resources.base - Featured Services section Heading is appearing on the home page
+22:27:34.426 [main] INFO  resources.base - In featured Services section get it now button is appearing on the home page
+22:27:34.495 [main] INFO  resources.base - Shop By Vendor section Heading is appearing on the home page
+22:27:34.529 [main] INFO  resources.base - Your Services Heading is appearing on the home page
+22:27:51.700 [main] INFO  resources.base - From the Home Page User has Clicked Get Now button from Services Section
+22:27:53.871 [main] INFO  resources.base - From the Pdp Page user is clicking on Get it now button
+22:28:19.188 [main] INFO  resources.base - Tenancy Information section is present on procurement checkout page
+22:28:19.224 [main] INFO  resources.base - Address of Use Section is present on procurement checkout page
+22:28:19.258 [main] INFO  resources.base - Payment & Billing Section is present on procurement checkout page
+22:28:19.290 [main] INFO  resources.base - Review Order Section is present on procurement checkout page
+22:28:21.410 [main] INFO  resources.base - From the procurement checkout page user is clicking on step#1 Yes button
+22:28:23.487 [main] INFO  resources.base - From the procurement checkout page user is clicking on step#1 continue button
+22:28:25.593 [main] INFO  resources.base - From the procurement checkout page user is clicking on step#1 continue button
+22:28:27.747 [main] INFO  resources.base - From the procurement checkout page user is clicking on step#3 continue button
+22:28:29.904 [main] INFO  resources.base - From the procurement checkout page user is clicking on submit order button
+22:28:59.300 [main] INFO  resources.base - From the Customer Portal user is clicking on notification icon
+22:28:59.364 [main] INFO  resources.base - All notifications tab is present on notification page
+22:28:59.386 [main] INFO  resources.base - Flagged tab is present on notification page
+22:29:03.857 [main] INFO  resources.base - From the Customer Portal user is clicking on User management from account menu
+22:29:53.220 [main] INFO  resources.base - User is entering ccp keyword in search box
+22:30:16.239 [main] INFO  resources.base - From the Customer Portal user is clicking on manage domains from account menu
+22:30:27.932 [main] INFO  resources.base - From the Customer Portal user is clicking on my profile from account menu
+22:30:53.469 [main] INFO  resources.base - From the Customer Portal user is clicking on Account settings from account menu
+22:31:31.449 [main] INFO  resources.base - From the Customer Portal user is clicking on Address Of use from account menu
+22:31:41.772 [main] INFO  resources.base - From the Address of Use page user is clicking on request address button
+22:31:49.415 [main] INFO  resources.base - From the Customer Portal user is clicking on Catalog Restrictions from account menu
+22:32:37.698 [main] INFO  resources.base - From the Customer Portal user is clicking on Change Passowrd Link from account menu
+22:33:10.142 [main] INFO  resources.base - From the Customer Portal user is clicking on payment Method Link from account menu
+22:34:16.622 [main] ERROR resources.base - From the Customer Portal user is clicking on Discover link under MarkITPlace Section
+22:34:53.037 [main] INFO  resources.base - From the Customer Portal user is clicking on Applications link under MarkITPlace Section
+22:35:01.387 [main] INFO  resources.base - From the Customer Portal user is clicking on Infrastructure link under MarkITPlace Section
+22:35:08.158 [main] INFO  resources.base - From the Customer Portal user is clicking on Platform link under MarkITPlace Section
+22:35:15.827 [main] INFO  resources.base - From the Customer Portal user is clicking on Consulting link under MarkITPlace Section
+22:35:23.183 [main] INFO  resources.base - From the Customer Portal user is searching the Microsoft service
+22:35:29.702 [main] INFO  resources.base - From the Customer Portal user is clicking on Logout from account menu
+22:35:35.954 [main] INFO  resources.base - From the Customer Portal user Login page , User is entering the correct username but wrong password
+22:35:41.154 [main] INFO  resources.base - From the Customer Portal user Login page , User is entering the correct username but wrong password 3 times
+22:35:48.001 [main] INFO  resources.base - From the Customer Portal user Login page , User is entering the correct username but wrong password
+22:36:06.883 [main] INFO  resources.base - From the Customer Portal forget password page , User is clicking on forget password link and sending the email for password reset
+22:39:22.782 [main] INFO  resources.base - The title of the home page is captured
+22:39:22.783 [main] INFO  resources.base - The title of the Shop page is Verified Successfully
+22:39:27.085 [main] INFO  resources.base - From the Home Page User has Clicked on MarkITPlace tab
+22:39:27.085 [main] INFO  resources.base - User has routed to the Shop Page after clicking on MarketPlace link
+22:39:29.113 [main] INFO  resources.base - From the Home Page User has Clicked on Manage tab
+22:39:31.139 [main] INFO  resources.base - From the Home Page User has Clicked on Insight tab
+22:39:31.441 [main] ERROR resources.base - Consulting link is found on home page
+22:39:31.538 [main] INFO  resources.base - DFP banner is appearing on the home page in the footer
+22:39:31.648 [main] INFO  resources.base - Featured Services section Heading is appearing on the home page
+22:39:31.719 [main] INFO  resources.base - In featured Services section get it now button is appearing on the home page
+22:39:31.754 [main] INFO  resources.base - Shop By Vendor section Heading is appearing on the home page
+22:39:31.823 [main] INFO  resources.base - Your Services Heading is appearing on the home page
+22:39:40.424 [main] INFO  resources.base - From the Home Page User has Clicked Get Now button from Services Section
+22:39:42.536 [main] INFO  resources.base - From the Pdp Page user is clicking on Get it now button
+22:39:49.371 [main] INFO  resources.base - Tenancy Information section is present on procurement checkout page
+22:39:49.407 [main] INFO  resources.base - Address of Use Section is present on procurement checkout page
+22:39:49.438 [main] INFO  resources.base - Payment & Billing Section is present on procurement checkout page
+22:39:49.471 [main] INFO  resources.base - Review Order Section is present on procurement checkout page
+22:39:51.595 [main] INFO  resources.base - From the procurement checkout page user is clicking on step#1 Yes button
+22:39:53.667 [main] INFO  resources.base - From the procurement checkout page user is clicking on step#1 continue button
+22:39:55.754 [main] INFO  resources.base - From the procurement checkout page user is clicking on step#1 continue button
+22:39:57.913 [main] INFO  resources.base - From the procurement checkout page user is clicking on step#3 continue button
+22:40:00.076 [main] INFO  resources.base - From the procurement checkout page user is clicking on submit order button
+22:40:16.584 [main] INFO  resources.base - From the Customer Portal user is clicking on notification icon
+22:40:16.625 [main] INFO  resources.base - All notifications tab is present on notification page
+22:40:16.649 [main] INFO  resources.base - Flagged tab is present on notification page
+22:40:21.676 [main] INFO  resources.base - From the Customer Portal user is clicking on User management from account menu
+22:41:10.550 [main] INFO  resources.base - User is entering ccp keyword in search box
+22:41:27.485 [main] INFO  resources.base - From the Customer Portal user is clicking on manage domains from account menu
+22:41:36.589 [main] INFO  resources.base - From the Customer Portal user is clicking on my profile from account menu
+22:42:01.408 [main] INFO  resources.base - From the Customer Portal user is clicking on Account settings from account menu
+22:42:34.638 [main] INFO  resources.base - From the Customer Portal user is clicking on Address Of use from account menu
+22:42:44.868 [main] INFO  resources.base - From the Address of Use page user is clicking on request address button
+22:42:52.781 [main] INFO  resources.base - From the Customer Portal user is clicking on Catalog Restrictions from account menu
+22:43:30.966 [main] INFO  resources.base - From the Customer Portal user is clicking on Change Passowrd Link from account menu
+22:44:32.540 [main] INFO  resources.base - From the Customer Portal user is clicking on payment Method Link from account menu
+22:44:43.171 [main] ERROR resources.base - From the Customer Portal user is clicking on Discover link under MarkITPlace Section
+22:44:56.745 [main] INFO  resources.base - From the Customer Portal user is clicking on Applications link under MarkITPlace Section
+22:45:04.661 [main] INFO  resources.base - From the Customer Portal user is clicking on Infrastructure link under MarkITPlace Section
+22:45:12.862 [main] INFO  resources.base - From the Customer Portal user is clicking on Platform link under MarkITPlace Section
+22:45:23.124 [main] INFO  resources.base - From the Customer Portal user is clicking on Consulting link under MarkITPlace Section
+22:45:32.287 [main] INFO  resources.base - From the Customer Portal user is searching the Microsoft service
+22:45:38.792 [main] INFO  resources.base - From the Customer Portal user is clicking on Logout from account menu
+22:45:44.973 [main] INFO  resources.base - From the Customer Portal user Login page , User is entering the correct username but wrong password
+22:45:50.030 [main] INFO  resources.base - From the Customer Portal user Login page , User is entering the correct username but wrong password 3 times
+22:45:59.099 [main] INFO  resources.base - From the Customer Portal user Login page , User is entering the correct username but wrong password
+22:46:19.565 [main] INFO  resources.base - From the Customer Portal forget password page , User is clicking on forget password link and sending the email for password reset
+22:49:43.306 [main] INFO  resources.base - The title of the home page is captured
+22:49:43.308 [main] INFO  resources.base - The title of the Shop page is Verified Successfully
+22:49:47.743 [main] INFO  resources.base - From the Home Page User has Clicked on MarkITPlace tab
+22:49:47.743 [main] INFO  resources.base - User has routed to the Shop Page after clicking on MarketPlace link
+22:49:49.773 [main] INFO  resources.base - From the Home Page User has Clicked on Manage tab
+22:49:51.794 [main] INFO  resources.base - From the Home Page User has Clicked on Insight tab
+22:49:52.040 [main] ERROR resources.base - Consulting link is found on home page
+22:49:52.089 [main] INFO  resources.base - DFP banner is appearing on the home page in the footer
+22:49:52.199 [main] INFO  resources.base - Featured Services section Heading is appearing on the home page
+22:49:52.269 [main] INFO  resources.base - In featured Services section get it now button is appearing on the home page
+22:49:52.331 [main] INFO  resources.base - Shop By Vendor section Heading is appearing on the home page
+22:49:52.434 [main] INFO  resources.base - Your Services Heading is appearing on the home page
+22:49:59.334 [main] INFO  resources.base - From the Home Page User has Clicked Get Now button from Services Section
+22:50:01.452 [main] INFO  resources.base - From the Pdp Page user is clicking on Get it now button
+22:50:06.861 [main] INFO  resources.base - Tenancy Information section is present on procurement checkout page
+22:50:06.893 [main] INFO  resources.base - Address of Use Section is present on procurement checkout page
+22:50:06.927 [main] INFO  resources.base - Payment & Billing Section is present on procurement checkout page
+22:50:06.956 [main] INFO  resources.base - Review Order Section is present on procurement checkout page
+22:50:09.097 [main] INFO  resources.base - From the procurement checkout page user is clicking on step#1 Yes button
+22:50:11.175 [main] INFO  resources.base - From the procurement checkout page user is clicking on step#1 continue button
+22:50:13.255 [main] INFO  resources.base - From the procurement checkout page user is clicking on step#1 continue button
+22:50:15.407 [main] INFO  resources.base - From the procurement checkout page user is clicking on step#3 continue button
+22:50:17.578 [main] INFO  resources.base - From the procurement checkout page user is clicking on submit order button
+22:50:31.525 [main] INFO  resources.base - From the Customer Portal user is clicking on notification icon
+22:50:31.622 [main] INFO  resources.base - All notifications tab is present on notification page
+22:50:31.644 [main] INFO  resources.base - Flagged tab is present on notification page
+22:50:36.087 [main] INFO  resources.base - From the Customer Portal user is clicking on User management from account menu
+22:51:24.877 [main] INFO  resources.base - User is entering ccp keyword in search box
+22:51:39.712 [main] INFO  resources.base - From the Customer Portal user is clicking on manage domains from account menu
+22:51:49.207 [main] INFO  resources.base - From the Customer Portal user is clicking on my profile from account menu
+22:52:12.794 [main] INFO  resources.base - From the Customer Portal user is clicking on Account settings from account menu
+22:52:46.734 [main] INFO  resources.base - From the Customer Portal user is clicking on Address Of use from account menu
+22:52:57.051 [main] INFO  resources.base - From the Address of Use page user is clicking on request address button
+22:53:05.289 [main] INFO  resources.base - From the Customer Portal user is clicking on Catalog Restrictions from account menu
+22:53:44.230 [main] INFO  resources.base - From the Customer Portal user is clicking on Change Passowrd Link from account menu
+22:54:14.596 [main] INFO  resources.base - From the Customer Portal user is clicking on payment Method Link from account menu
+22:54:25.004 [main] ERROR resources.base - From the Customer Portal user is clicking on Discover link under MarkITPlace Section
+22:54:37.055 [main] INFO  resources.base - From the Customer Portal user is clicking on Applications link under MarkITPlace Section
+22:54:44.802 [main] INFO  resources.base - From the Customer Portal user is clicking on Infrastructure link under MarkITPlace Section
+22:54:52.133 [main] INFO  resources.base - From the Customer Portal user is clicking on Platform link under MarkITPlace Section
+22:54:59.134 [main] INFO  resources.base - From the Customer Portal user is clicking on Consulting link under MarkITPlace Section
+22:55:06.091 [main] INFO  resources.base - From the Customer Portal user is searching the Microsoft service
+22:55:12.683 [main] INFO  resources.base - From the Customer Portal user is clicking on Logout from account menu
+22:55:18.908 [main] INFO  resources.base - From the Customer Portal user Login page , User is entering the correct username but wrong password
+22:55:24.020 [main] INFO  resources.base - From the Customer Portal user Login page , User is entering the correct username but wrong password 3 times
+22:55:30.760 [main] INFO  resources.base - From the Customer Portal user Login page , User is entering the correct username but wrong password
+22:55:52.558 [main] INFO  resources.base - From the Customer Portal forget password page , User is clicking on forget password link and sending the email for password reset
+22:59:04.347 [main] INFO  resources.base - The title of the home page is captured
+22:59:04.349 [main] INFO  resources.base - The title of the Shop page is Verified Successfully
+22:59:08.964 [main] INFO  resources.base - From the Home Page User has Clicked on MarkITPlace tab
+22:59:08.964 [main] INFO  resources.base - User has routed to the Shop Page after clicking on MarketPlace link
+22:59:10.984 [main] INFO  resources.base - From the Home Page User has Clicked on Manage tab
+22:59:13.017 [main] INFO  resources.base - From the Home Page User has Clicked on Insight tab
+22:59:13.277 [main] ERROR resources.base - Consulting link is found on home page
+22:59:13.443 [main] INFO  resources.base - DFP banner is appearing on the home page in the footer
+22:59:13.482 [main] INFO  resources.base - Featured Services section Heading is appearing on the home page
+22:59:13.520 [main] INFO  resources.base - In featured Services section get it now button is appearing on the home page
+22:59:13.558 [main] INFO  resources.base - Shop By Vendor section Heading is appearing on the home page
+22:59:13.595 [main] INFO  resources.base - Your Services Heading is appearing on the home page
+22:59:20.583 [main] INFO  resources.base - From the Home Page User has Clicked Get Now button from Services Section
+22:59:22.715 [main] INFO  resources.base - From the Pdp Page user is clicking on Get it now button
+23:01:30.231 [main] INFO  resources.base - Tenancy Information section is present on procurement checkout page
+23:01:30.270 [main] INFO  resources.base - Address of Use Section is present on procurement checkout page
+23:01:30.304 [main] INFO  resources.base - Payment & Billing Section is present on procurement checkout page
+23:01:30.338 [main] INFO  resources.base - Review Order Section is present on procurement checkout page
+23:01:32.462 [main] INFO  resources.base - From the procurement checkout page user is clicking on step#1 Yes button
+23:01:34.560 [main] INFO  resources.base - From the procurement checkout page user is clicking on step#1 continue button
+23:01:36.644 [main] INFO  resources.base - From the procurement checkout page user is clicking on step#1 continue button
+23:01:38.786 [main] INFO  resources.base - From the procurement checkout page user is clicking on step#3 continue button
+23:01:40.964 [main] INFO  resources.base - From the procurement checkout page user is clicking on submit order button
+22:41:03.047 [main] INFO  resources.base - From the Customer Portal user is clicking on notification icon
+22:41:03.090 [main] INFO  resources.base - All notifications tab is present on notification page
+22:41:03.113 [main] INFO  resources.base - Flagged tab is present on notification page
+22:41:08.424 [main] INFO  resources.base - From the Customer Portal user is clicking on User management from account menu
+22:41:57.522 [main] INFO  resources.base - User is entering ccp keyword in search box
+22:42:11.767 [main] INFO  resources.base - From the Customer Portal user is clicking on manage domains from account menu
+22:42:20.697 [main] INFO  resources.base - From the Customer Portal user is clicking on my profile from account menu
+22:43:03.309 [main] INFO  resources.base - From the Customer Portal user is clicking on Account settings from account menu
+22:44:38.163 [main] INFO  resources.base - From the Customer Portal user is clicking on Address Of use from account menu
+22:44:48.356 [main] INFO  resources.base - From the Address of Use page user is clicking on request address button
+22:46:22.671 [main] INFO  resources.base - From the Customer Portal user is clicking on Catalog Restrictions from account menu
+22:48:26.134 [main] INFO  resources.base - From the Customer Portal user is clicking on payment Method Link from account menu
+22:48:44.229 [main] ERROR resources.base - From the Customer Portal user is clicking on Discover link under MarkITPlace Section
+22:49:07.686 [main] INFO  resources.base - From the Customer Portal user is clicking on Applications link under MarkITPlace Section
+22:49:14.951 [main] INFO  resources.base - From the Customer Portal user is clicking on Infrastructure link under MarkITPlace Section
+22:49:23.191 [main] INFO  resources.base - From the Customer Portal user is clicking on Platform link under MarkITPlace Section
+22:49:29.328 [main] INFO  resources.base - From the Customer Portal user is clicking on Consulting link under MarkITPlace Section
+22:49:36.336 [main] INFO  resources.base - From the Customer Portal user is searching the Microsoft service
+22:49:42.937 [main] INFO  resources.base - From the Customer Portal user is clicking on Logout from account menu
+22:49:49.317 [main] INFO  resources.base - From the Customer Portal user Login page , User is entering the correct username but wrong password
+22:49:54.342 [main] INFO  resources.base - From the Customer Portal user Login page , User is entering the correct username but wrong password 3 times
+22:50:00.605 [main] INFO  resources.base - From the Customer Portal user Login page , User is entering the correct username but wrong password
+22:50:38.157 [main] INFO  resources.base - From the Customer Portal forget password page , User is clicking on forget password link and sending the email for password reset
+22:58:45.043 [main] INFO  resources.base - The title of the home page is captured
+22:58:45.045 [main] INFO  resources.base - The title of the Shop page is Verified Successfully
+22:58:50.240 [main] INFO  resources.base - From the Home Page User has Clicked on MarkITPlace tab
+22:58:50.240 [main] INFO  resources.base - User has routed to the Shop Page after clicking on MarketPlace link
+22:58:52.279 [main] INFO  resources.base - From the Home Page User has Clicked on Manage tab
+22:58:54.342 [main] INFO  resources.base - From the Home Page User has Clicked on Insight tab
+22:58:54.679 [main] ERROR resources.base - Consulting link is found on home page
+22:58:54.732 [main] INFO  resources.base - DFP banner is appearing on the home page in the footer
+22:58:54.813 [main] INFO  resources.base - Featured Services section Heading is appearing on the home page
+22:58:54.853 [main] INFO  resources.base - In featured Services section get it now button is appearing on the home page
+22:58:54.912 [main] INFO  resources.base - Shop By Vendor section Heading is appearing on the home page
+22:58:54.986 [main] INFO  resources.base - Your Services Heading is appearing on the home page
+22:59:01.933 [main] INFO  resources.base - From the Home Page User has Clicked Get Now button from Services Section
+22:59:04.050 [main] INFO  resources.base - From the Pdp Page user is clicking on Get it now button
+22:59:11.234 [main] INFO  resources.base - Tenancy Information section is present on procurement checkout page
+22:59:11.270 [main] INFO  resources.base - Address of Use Section is present on procurement checkout page
+22:59:11.300 [main] INFO  resources.base - Payment & Billing Section is present on procurement checkout page
+22:59:11.336 [main] INFO  resources.base - Review Order Section is present on procurement checkout page
+22:59:13.482 [main] INFO  resources.base - From the procurement checkout page user is clicking on step#1 Yes button
+22:59:15.575 [main] INFO  resources.base - From the procurement checkout page user is clicking on step#1 continue button
+22:59:17.665 [main] INFO  resources.base - From the procurement checkout page user is clicking on step#1 continue button
+22:59:19.826 [main] INFO  resources.base - From the procurement checkout page user is clicking on step#3 continue button
+22:59:21.983 [main] INFO  resources.base - From the procurement checkout page user is clicking on submit order button
+22:59:42.109 [main] INFO  resources.base - From the Customer Portal user is clicking on notification icon
+22:59:42.172 [main] INFO  resources.base - All notifications tab is present on notification page
+22:59:42.196 [main] INFO  resources.base - Flagged tab is present on notification page
+22:59:51.173 [main] INFO  resources.base - From the Customer Portal user is clicking on User management from account menu
+23:00:39.950 [main] INFO  resources.base - User is entering ccp keyword in search box
+23:00:54.756 [main] INFO  resources.base - From the Customer Portal user is clicking on manage domains from account menu
+23:01:04.729 [main] INFO  resources.base - From the Customer Portal user is clicking on my profile from account menu
+23:01:29.122 [main] INFO  resources.base - From the Customer Portal user is clicking on Account settings from account menu
+23:02:04.206 [main] INFO  resources.base - From the Customer Portal user is clicking on Address Of use from account menu
+23:02:14.446 [main] INFO  resources.base - From the Address of Use page user is clicking on request address button
+23:02:22.762 [main] INFO  resources.base - From the Customer Portal user is clicking on Catalog Restrictions from account menu
+23:03:01.104 [main] INFO  resources.base - From the Customer Portal user is clicking on Change Passowrd Link from account menu
+23:03:30.712 [main] INFO  resources.base - From the Customer Portal user is clicking on payment Method Link from account menu
+23:03:40.040 [main] ERROR resources.base - From the Customer Portal user is clicking on Discover link under MarkITPlace Section
+23:03:52.160 [main] INFO  resources.base - From the Customer Portal user is clicking on Applications link under MarkITPlace Section
+23:04:01.433 [main] INFO  resources.base - From the Customer Portal user is clicking on Infrastructure link under MarkITPlace Section
+23:04:08.504 [main] INFO  resources.base - From the Customer Portal user is clicking on Platform link under MarkITPlace Section
+23:04:17.940 [main] INFO  resources.base - From the Customer Portal user is clicking on Consulting link under MarkITPlace Section
+23:04:25.684 [main] INFO  resources.base - From the Customer Portal user is searching the Microsoft service
+23:04:32.540 [main] INFO  resources.base - From the Customer Portal user is clicking on Logout from account menu
+23:04:38.699 [main] INFO  resources.base - From the Customer Portal user Login page , User is entering the correct username but wrong password
+23:04:43.802 [main] INFO  resources.base - From the Customer Portal user Login page , User is entering the correct username but wrong password 3 times
+23:04:51.309 [main] INFO  resources.base - From the Customer Portal user Login page , User is entering the correct username but wrong password
+23:05:32.685 [main] INFO  resources.base - From the Customer Portal forget password page , User is clicking on forget password link and sending the email for password reset
+22:12:16.110 [main] INFO  resources.base - The title of the home page is captured
+22:12:16.122 [main] INFO  resources.base - The title of the Shop page is Verified Successfully
+22:12:20.237 [main] INFO  resources.base - From the Home Page User has Clicked on MarkITPlace tab
+22:12:20.237 [main] INFO  resources.base - User has routed to the Shop Page after clicking on MarketPlace link
+22:12:22.273 [main] INFO  resources.base - From the Home Page User has Clicked on Manage tab
+22:12:24.299 [main] INFO  resources.base - From the Home Page User has Clicked on Insight tab
+22:12:24.743 [main] ERROR resources.base - Consulting link is found on home page
+22:12:24.785 [main] INFO  resources.base - DFP banner is appearing on the home page in the footer
+22:12:24.826 [main] INFO  resources.base - Featured Services section Heading is appearing on the home page
+22:12:24.873 [main] INFO  resources.base - In featured Services section get it now button is appearing on the home page
+22:12:24.919 [main] INFO  resources.base - Shop By Vendor section Heading is appearing on the home page
+22:12:24.998 [main] INFO  resources.base - Your Services Heading is appearing on the home page
+22:13:08.970 [main] INFO  resources.base - From the Home Page User has Clicked Get Now button from Services Section
+22:13:11.144 [main] INFO  resources.base - From the Pdp Page user is clicking on Get it now button
+22:13:45.456 [main] INFO  resources.base - Tenancy Information section is present on procurement checkout page
+22:13:45.493 [main] INFO  resources.base - Address of Use Section is present on procurement checkout page
+22:13:45.525 [main] INFO  resources.base - Payment & Billing Section is present on procurement checkout page
+22:13:45.557 [main] INFO  resources.base - Review Order Section is present on procurement checkout page
+22:13:47.675 [main] INFO  resources.base - From the procurement checkout page user is clicking on step#1 Yes button
+22:13:49.749 [main] INFO  resources.base - From the procurement checkout page user is clicking on step#1 continue button
+22:13:51.837 [main] INFO  resources.base - From the procurement checkout page user is clicking on step#1 continue button
+22:13:53.948 [main] INFO  resources.base - From the procurement checkout page user is clicking on step#3 continue button
+22:13:56.074 [main] INFO  resources.base - From the procurement checkout page user is clicking on submit order button
+22:14:24.071 [main] INFO  resources.base - From the Customer Portal user is clicking on notification icon
+22:14:24.136 [main] INFO  resources.base - All notifications tab is present on notification page
+22:14:24.161 [main] INFO  resources.base - Flagged tab is present on notification page
+22:14:28.980 [main] INFO  resources.base - From the Customer Portal user is clicking on User management from account menu
+22:15:17.749 [main] INFO  resources.base - User is entering ccp keyword in search box
+22:15:33.486 [main] INFO  resources.base - From the Customer Portal user is clicking on manage domains from account menu
+22:15:43.110 [main] INFO  resources.base - From the Customer Portal user is clicking on my profile from account menu
+22:16:06.683 [main] INFO  resources.base - From the Customer Portal user is clicking on Account settings from account menu
+22:16:41.675 [main] INFO  resources.base - From the Customer Portal user is clicking on Address Of use from account menu
+22:16:51.918 [main] INFO  resources.base - From the Address of Use page user is clicking on request address button
+22:16:59.287 [main] INFO  resources.base - From the Customer Portal user is clicking on Catalog Restrictions from account menu
+22:17:38.034 [main] INFO  resources.base - From the Customer Portal user is clicking on Change Passowrd Link from account menu
+22:18:45.555 [main] INFO  resources.base - From the Customer Portal user is clicking on payment Method Link from account menu
+22:19:01.711 [main] ERROR resources.base - From the Customer Portal user is clicking on Discover link under MarkITPlace Section
+22:19:13.835 [main] INFO  resources.base - From the Customer Portal user is clicking on Applications link under MarkITPlace Section
+22:19:22.076 [main] INFO  resources.base - From the Customer Portal user is clicking on Infrastructure link under MarkITPlace Section
+22:19:29.521 [main] INFO  resources.base - From the Customer Portal user is clicking on Platform link under MarkITPlace Section
+22:19:35.870 [main] INFO  resources.base - From the Customer Portal user is clicking on Consulting link under MarkITPlace Section
+22:19:43.252 [main] INFO  resources.base - From the Customer Portal user is searching the Microsoft service
+22:19:49.599 [main] INFO  resources.base - From the Customer Portal user is clicking on Logout from account menu
+22:19:55.747 [main] INFO  resources.base - From the Customer Portal user Login page , User is entering the correct username but wrong password
+22:20:00.833 [main] INFO  resources.base - From the Customer Portal user Login page , User is entering the correct username but wrong password 3 times
+22:20:06.936 [main] INFO  resources.base - From the Customer Portal user Login page , User is entering the correct username but wrong password
+22:20:50.288 [main] INFO  resources.base - From the Customer Portal forget password page , User is clicking on forget password link and sending the email for password reset
+22:33:37.929 [main] INFO  resources.base - The title of the home page is captured
+22:33:38.168 [main] INFO  resources.base - The title of the Shop page is Verified Successfully
+22:33:42.482 [main] INFO  resources.base - From the Home Page User has Clicked on MarkITPlace tab
+22:33:42.482 [main] INFO  resources.base - User has routed to the Shop Page after clicking on MarketPlace link
+22:33:44.512 [main] INFO  resources.base - From the Home Page User has Clicked on Manage tab
+22:33:46.547 [main] INFO  resources.base - From the Home Page User has Clicked on Insight tab
+22:33:46.785 [main] ERROR resources.base - Consulting link is found on home page
+22:33:46.832 [main] INFO  resources.base - DFP banner is appearing on the home page in the footer
+22:33:47.030 [main] INFO  resources.base - Featured Services section Heading is appearing on the home page
+22:33:47.074 [main] INFO  resources.base - In featured Services section get it now button is appearing on the home page
+22:33:47.138 [main] INFO  resources.base - Shop By Vendor section Heading is appearing on the home page
+22:33:47.174 [main] INFO  resources.base - Your Services Heading is appearing on the home page
+22:33:54.089 [main] INFO  resources.base - From the Home Page User has Clicked Get Now button from Services Section
+22:33:56.222 [main] INFO  resources.base - From the Pdp Page user is clicking on Get it now button
+22:34:01.849 [main] INFO  resources.base - Tenancy Information section is present on procurement checkout page
+22:34:01.884 [main] INFO  resources.base - Address of Use Section is present on procurement checkout page
+22:34:01.916 [main] INFO  resources.base - Payment & Billing Section is present on procurement checkout page
+22:34:01.958 [main] INFO  resources.base - Review Order Section is present on procurement checkout page
+22:34:04.068 [main] INFO  resources.base - From the procurement checkout page user is clicking on step#1 Yes button
+22:34:06.138 [main] INFO  resources.base - From the procurement checkout page user is clicking on step#1 continue button
+22:34:08.231 [main] INFO  resources.base - From the procurement checkout page user is clicking on step#1 continue button
+22:34:10.357 [main] INFO  resources.base - From the procurement checkout page user is clicking on step#3 continue button
+22:34:12.500 [main] INFO  resources.base - From the procurement checkout page user is clicking on submit order button
+22:34:26.866 [main] INFO  resources.base - From the Customer Portal user is clicking on notification icon
+22:34:26.935 [main] INFO  resources.base - All notifications tab is present on notification page
+22:34:26.960 [main] INFO  resources.base - Flagged tab is present on notification page
+22:34:31.640 [main] INFO  resources.base - From the Customer Portal user is clicking on User management from account menu
+22:35:20.756 [main] INFO  resources.base - User is entering ccp keyword in search box
+22:35:35.159 [main] INFO  resources.base - From the Customer Portal user is clicking on manage domains from account menu
+22:35:44.515 [main] INFO  resources.base - From the Customer Portal user is clicking on my profile from account menu
+22:36:07.968 [main] INFO  resources.base - From the Customer Portal user is clicking on Account settings from account menu
+22:36:42.604 [main] INFO  resources.base - From the Customer Portal user is clicking on Address Of use from account menu
+22:36:52.879 [main] INFO  resources.base - From the Address of Use page user is clicking on request address button
+22:37:00.785 [main] INFO  resources.base - From the Customer Portal user is clicking on Catalog Restrictions from account menu
+22:37:39.447 [main] INFO  resources.base - From the Customer Portal user is clicking on Change Passowrd Link from account menu
+22:38:09.689 [main] INFO  resources.base - From the Customer Portal user is clicking on payment Method Link from account menu
+22:38:19.241 [main] ERROR resources.base - From the Customer Portal user is clicking on Discover link under MarkITPlace Section
+22:38:32.428 [main] INFO  resources.base - From the Customer Portal user is clicking on Applications link under MarkITPlace Section
+22:38:39.907 [main] INFO  resources.base - From the Customer Portal user is clicking on Infrastructure link under MarkITPlace Section
+22:38:47.264 [main] INFO  resources.base - From the Customer Portal user is clicking on Platform link under MarkITPlace Section
+22:38:53.992 [main] INFO  resources.base - From the Customer Portal user is clicking on Consulting link under MarkITPlace Section
+22:39:01.970 [main] INFO  resources.base - From the Customer Portal user is searching the Microsoft service
+22:39:08.146 [main] INFO  resources.base - From the Customer Portal user is clicking on Logout from account menu
+22:39:14.311 [main] INFO  resources.base - From the Customer Portal user Login page , User is entering the correct username but wrong password
+22:39:19.452 [main] INFO  resources.base - From the Customer Portal user Login page , User is entering the correct username but wrong password 3 times
+22:39:39.534 [main] INFO  resources.base - From the Customer Portal user Login page , User is entering the correct username but wrong password
+22:40:25.322 [main] INFO  resources.base - From the Customer Portal forget password page , User is clicking on forget password link and sending the email for password reset

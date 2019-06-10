@@ -1,0 +1,430 @@
+10:10:50.598 [main] INFO  resources.base - From the procurement checkout page user is clicking on step#3 continue button
+10:10:52.772 [main] INFO  resources.base - From the procurement checkout page user is clicking on submit order button
+10:11:08.569 [main] INFO  resources.base - From the Customer Portal user is clicking on notification icon
+10:11:08.697 [main] INFO  resources.base - All notifications tab is present on notification page
+10:11:08.739 [main] INFO  resources.base - Flagged tab is present on notification page
+10:11:16.074 [main] INFO  resources.base - From the Customer Portal user is clicking on User management from account menu
+10:11:36.805 [main] ERROR resources.base - no such element: Unable to locate element: {"method":"xpath","selector":"//span[@class='alert-msg' and text()='The user bilawal.alam@arpatech.com has been invited successfully']"}
+  (Session info: chrome=74.0.3729.157)
+  (Driver info: chromedriver=2.36.540470 (e522d04694c7ebea4ba8821272dbef4f9b818c91),platform=Windows NT 10.0.17134 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.8.1', revision: '6e95a6684b', time: '2017-12-01T18:33:54.468Z'
+System info: host: 'DESKTOP-B75F35K', ip: '192.168.14.216', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_171'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.36.540470 (e522d04694c7eb..., userDataDir: C:\Users\bilaw\AppData\Loca...}, cssSelectorsEnabled: true, databaseEnabled: false, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 74.0.3729.157, webStorageEnabled: true}
+Session ID: e3baa2771d98b55c7f03aa28d05d97fb
+*** Element info: {Using=xpath, value=//span[@class='alert-msg' and text()='The user bilawal.alam@arpatech.com has been invited successfully']}
+10:11:39.148 [main] INFO  resources.base - User is entering ccp keyword in search box
+10:18:30.799 [main] INFO  resources.base - The title of the home page is captured
+10:18:30.799 [main] INFO  resources.base - The title of the Shop page is Verified Successfully
+10:18:41.684 [main] INFO  resources.base - From the Home Page User has Clicked on MarkITPlace tab
+10:18:41.684 [main] INFO  resources.base - User has routed to the Shop Page after clicking on MarketPlace link
+10:18:43.756 [main] INFO  resources.base - From the Home Page User has Clicked on Manage tab
+10:18:45.840 [main] INFO  resources.base - From the Home Page User has Clicked on Insight tab
+10:18:46.142 [main] ERROR resources.base - Consulting link is found on home page
+10:18:46.201 [main] INFO  resources.base - DFP banner is appearing on the home page in the footer
+10:18:46.301 [main] INFO  resources.base - Featured Services section Heading is appearing on the home page
+10:18:46.384 [main] INFO  resources.base - In featured Services section get it now button is appearing on the home page
+10:18:46.467 [main] INFO  resources.base - Shop By Vendor section Heading is appearing on the home page
+10:18:46.539 [main] INFO  resources.base - Your Services Heading is appearing on the home page
+10:18:59.179 [main] INFO  resources.base - From the Home Page User has Clicked Get Now button from Services Section
+10:19:01.438 [main] INFO  resources.base - From the Pdp Page user is clicking on Get it now button
+10:19:21.753 [main] INFO  resources.base - Tenancy Information section is present on procurement checkout page
+10:19:21.777 [main] INFO  resources.base - Address of Use Section is present on procurement checkout page
+10:19:21.831 [main] INFO  resources.base - Payment & Billing Section is present on procurement checkout page
+10:19:21.874 [main] INFO  resources.base - Review Order Section is present on procurement checkout page
+10:19:23.988 [main] INFO  resources.base - From the procurement checkout page user is clicking on step#1 Yes button
+10:19:26.175 [main] INFO  resources.base - From the procurement checkout page user is clicking on step#1 continue button
+10:19:28.364 [main] INFO  resources.base - From the procurement checkout page user is clicking on step#1 continue button
+10:19:30.499 [main] INFO  resources.base - From the procurement checkout page user is clicking on step#3 continue button
+10:19:32.637 [main] INFO  resources.base - From the procurement checkout page user is clicking on submit order button
+10:19:57.917 [main] INFO  resources.base - From the Customer Portal user is clicking on notification icon
+10:19:58.039 [main] INFO  resources.base - All notifications tab is present on notification page
+10:19:58.088 [main] INFO  resources.base - Flagged tab is present on notification page
+10:20:03.197 [main] INFO  resources.base - From the Customer Portal user is clicking on User management from account menu
+10:20:24.003 [main] ERROR resources.base - no such element: Unable to locate element: {"method":"xpath","selector":"//span[@class='alert-msg' and text()='The user bilawal.alam@arpatech.com has been invited successfully']"}
+  (Session info: chrome=74.0.3729.157)
+  (Driver info: chromedriver=2.36.540470 (e522d04694c7ebea4ba8821272dbef4f9b818c91),platform=Windows NT 10.0.17134 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.8.1', revision: '6e95a6684b', time: '2017-12-01T18:33:54.468Z'
+System info: host: 'DESKTOP-B75F35K', ip: '192.168.14.216', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_171'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.36.540470 (e522d04694c7eb..., userDataDir: C:\Users\bilaw\AppData\Loca...}, cssSelectorsEnabled: true, databaseEnabled: false, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 74.0.3729.157, webStorageEnabled: true}
+Session ID: 3acd91f13a6ae70e3530b7f72c485e2c
+*** Element info: {Using=xpath, value=//span[@class='alert-msg' and text()='The user bilawal.alam@arpatech.com has been invited successfully']}
+10:20:26.287 [main] INFO  resources.base - User is entering ccp keyword in search box
+10:34:21.545 [main] INFO  resources.base - The title of the home page is captured
+10:34:21.545 [main] INFO  resources.base - The title of the Shop page is Verified Successfully
+10:34:29.678 [main] INFO  resources.base - From the Home Page User has Clicked on MarkITPlace tab
+10:34:29.678 [main] INFO  resources.base - User has routed to the Shop Page after clicking on MarketPlace link
+10:34:31.766 [main] INFO  resources.base - From the Home Page User has Clicked on Manage tab
+10:34:33.835 [main] INFO  resources.base - From the Home Page User has Clicked on Insight tab
+10:34:34.070 [main] ERROR resources.base - Consulting link is found on home page
+10:34:34.106 [main] INFO  resources.base - DFP banner is appearing on the home page in the footer
+10:34:34.144 [main] INFO  resources.base - Featured Services section Heading is appearing on the home page
+10:34:34.246 [main] INFO  resources.base - In featured Services section get it now button is appearing on the home page
+10:34:34.290 [main] INFO  resources.base - Shop By Vendor section Heading is appearing on the home page
+10:34:34.352 [main] INFO  resources.base - Your Services Heading is appearing on the home page
+10:34:48.327 [main] INFO  resources.base - From the Home Page User has Clicked Get Now button from Services Section
+10:34:50.560 [main] INFO  resources.base - From the Pdp Page user is clicking on Get it now button
+10:34:56.834 [main] INFO  resources.base - Tenancy Information section is present on procurement checkout page
+10:34:56.892 [main] INFO  resources.base - Address of Use Section is present on procurement checkout page
+10:34:56.926 [main] INFO  resources.base - Payment & Billing Section is present on procurement checkout page
+10:34:56.971 [main] INFO  resources.base - Review Order Section is present on procurement checkout page
+10:34:59.092 [main] INFO  resources.base - From the procurement checkout page user is clicking on step#1 Yes button
+10:35:01.248 [main] INFO  resources.base - From the procurement checkout page user is clicking on step#1 continue button
+10:35:03.431 [main] INFO  resources.base - From the procurement checkout page user is clicking on step#1 continue button
+10:35:05.603 [main] INFO  resources.base - From the procurement checkout page user is clicking on step#3 continue button
+10:35:07.775 [main] INFO  resources.base - From the procurement checkout page user is clicking on submit order button
+10:35:22.311 [main] INFO  resources.base - From the Customer Portal user is clicking on notification icon
+10:35:22.456 [main] INFO  resources.base - All notifications tab is present on notification page
+10:35:22.497 [main] INFO  resources.base - Flagged tab is present on notification page
+10:35:27.048 [main] INFO  resources.base - From the Customer Portal user is clicking on User management from account menu
+10:35:55.836 [main] ERROR resources.base - no such element: Unable to locate element: {"method":"xpath","selector":"//span[@class='alert-msg' and text()='The user bilawal.alam@arpatech.com has been invited successfully']"}
+  (Session info: chrome=74.0.3729.157)
+  (Driver info: chromedriver=2.36.540470 (e522d04694c7ebea4ba8821272dbef4f9b818c91),platform=Windows NT 10.0.17134 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.8.1', revision: '6e95a6684b', time: '2017-12-01T18:33:54.468Z'
+System info: host: 'DESKTOP-B75F35K', ip: '192.168.14.216', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_171'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.36.540470 (e522d04694c7eb..., userDataDir: C:\Users\bilaw\AppData\Loca...}, cssSelectorsEnabled: true, databaseEnabled: false, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 74.0.3729.157, webStorageEnabled: true}
+Session ID: c498536fa9925fe03bccf6cfa5bea1ed
+*** Element info: {Using=xpath, value=//span[@class='alert-msg' and text()='The user bilawal.alam@arpatech.com has been invited successfully']}
+10:35:58.144 [main] INFO  resources.base - User is entering ccp keyword in search box
+10:38:19.297 [main] INFO  resources.base - The title of the home page is captured
+10:38:19.297 [main] INFO  resources.base - The title of the Shop page is Verified Successfully
+10:38:28.694 [main] INFO  resources.base - From the Home Page User has Clicked on MarkITPlace tab
+10:38:28.694 [main] INFO  resources.base - User has routed to the Shop Page after clicking on MarketPlace link
+10:38:30.786 [main] INFO  resources.base - From the Home Page User has Clicked on Manage tab
+10:38:32.875 [main] INFO  resources.base - From the Home Page User has Clicked on Insight tab
+10:38:33.136 [main] ERROR resources.base - Consulting link is found on home page
+10:38:33.209 [main] INFO  resources.base - DFP banner is appearing on the home page in the footer
+10:38:33.280 [main] INFO  resources.base - Featured Services section Heading is appearing on the home page
+10:38:33.392 [main] INFO  resources.base - In featured Services section get it now button is appearing on the home page
+10:38:33.436 [main] INFO  resources.base - Shop By Vendor section Heading is appearing on the home page
+10:38:33.473 [main] INFO  resources.base - Your Services Heading is appearing on the home page
+10:38:57.366 [main] INFO  resources.base - From the Home Page User has Clicked Get Now button from Services Section
+10:38:59.615 [main] INFO  resources.base - From the Pdp Page user is clicking on Get it now button
+10:39:22.270 [main] INFO  resources.base - Tenancy Information section is present on procurement checkout page
+10:39:22.291 [main] INFO  resources.base - Address of Use Section is present on procurement checkout page
+10:39:22.330 [main] INFO  resources.base - Payment & Billing Section is present on procurement checkout page
+10:39:22.371 [main] INFO  resources.base - Review Order Section is present on procurement checkout page
+10:39:24.506 [main] INFO  resources.base - From the procurement checkout page user is clicking on step#1 Yes button
+10:39:26.695 [main] INFO  resources.base - From the procurement checkout page user is clicking on step#1 continue button
+10:39:28.853 [main] INFO  resources.base - From the procurement checkout page user is clicking on step#1 continue button
+10:39:30.973 [main] INFO  resources.base - From the procurement checkout page user is clicking on step#3 continue button
+10:39:33.133 [main] INFO  resources.base - From the procurement checkout page user is clicking on submit order button
+10:39:47.071 [main] INFO  resources.base - From the Customer Portal user is clicking on notification icon
+10:39:47.222 [main] INFO  resources.base - All notifications tab is present on notification page
+10:39:47.266 [main] INFO  resources.base - Flagged tab is present on notification page
+10:39:51.860 [main] INFO  resources.base - From the Customer Portal user is clicking on User management from account menu
+10:39:54.310 [main] INFO  resources.base - User is entering ccp keyword in search box
+10:41:17.899 [main] INFO  resources.base - The title of the home page is captured
+10:41:17.899 [main] INFO  resources.base - The title of the Shop page is Verified Successfully
+10:41:26.056 [main] INFO  resources.base - From the Home Page User has Clicked on MarkITPlace tab
+10:41:26.056 [main] INFO  resources.base - User has routed to the Shop Page after clicking on MarketPlace link
+10:41:28.160 [main] INFO  resources.base - From the Home Page User has Clicked on Manage tab
+10:41:30.251 [main] INFO  resources.base - From the Home Page User has Clicked on Insight tab
+10:41:30.502 [main] ERROR resources.base - Consulting link is found on home page
+10:41:30.538 [main] INFO  resources.base - DFP banner is appearing on the home page in the footer
+10:41:30.578 [main] INFO  resources.base - Featured Services section Heading is appearing on the home page
+10:41:30.616 [main] INFO  resources.base - In featured Services section get it now button is appearing on the home page
+10:41:30.655 [main] INFO  resources.base - Shop By Vendor section Heading is appearing on the home page
+10:41:30.694 [main] INFO  resources.base - Your Services Heading is appearing on the home page
+10:41:37.942 [main] INFO  resources.base - From the Home Page User has Clicked Get Now button from Services Section
+10:41:40.111 [main] INFO  resources.base - From the Pdp Page user is clicking on Get it now button
+10:41:47.628 [main] INFO  resources.base - Tenancy Information section is present on procurement checkout page
+10:41:47.659 [main] INFO  resources.base - Address of Use Section is present on procurement checkout page
+10:41:47.708 [main] INFO  resources.base - Payment & Billing Section is present on procurement checkout page
+10:41:47.745 [main] INFO  resources.base - Review Order Section is present on procurement checkout page
+10:41:49.917 [main] INFO  resources.base - From the procurement checkout page user is clicking on step#1 Yes button
+10:41:52.099 [main] INFO  resources.base - From the procurement checkout page user is clicking on step#1 continue button
+10:41:54.224 [main] INFO  resources.base - From the procurement checkout page user is clicking on step#1 continue button
+10:41:56.373 [main] INFO  resources.base - From the procurement checkout page user is clicking on step#3 continue button
+10:41:58.512 [main] INFO  resources.base - From the procurement checkout page user is clicking on submit order button
+10:42:12.706 [main] INFO  resources.base - From the Customer Portal user is clicking on notification icon
+10:42:12.790 [main] INFO  resources.base - All notifications tab is present on notification page
+10:42:12.829 [main] INFO  resources.base - Flagged tab is present on notification page
+10:42:17.154 [main] INFO  resources.base - From the Customer Portal user is clicking on User management from account menu
+10:42:52.946 [main] ERROR resources.base - no such element: Unable to locate element: {"method":"xpath","selector":"//span[@class='alert-msg' and text()='The user bilawal.alam@arpatech.com has been invited successfully']"}
+  (Session info: chrome=74.0.3729.157)
+  (Driver info: chromedriver=2.36.540470 (e522d04694c7ebea4ba8821272dbef4f9b818c91),platform=Windows NT 10.0.17134 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.8.1', revision: '6e95a6684b', time: '2017-12-01T18:33:54.468Z'
+System info: host: 'DESKTOP-B75F35K', ip: '192.168.14.216', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_171'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.36.540470 (e522d04694c7eb..., userDataDir: C:\Users\bilaw\AppData\Loca...}, cssSelectorsEnabled: true, databaseEnabled: false, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 74.0.3729.157, webStorageEnabled: true}
+Session ID: 3e37120ca701fa69d071d3876f7a79ee
+*** Element info: {Using=xpath, value=//span[@class='alert-msg' and text()='The user bilawal.alam@arpatech.com has been invited successfully']}
+10:42:55.327 [main] INFO  resources.base - User is entering ccp keyword in search box
+10:44:18.449 [main] INFO  resources.base - The title of the home page is captured
+10:44:18.449 [main] INFO  resources.base - The title of the Shop page is Verified Successfully
+10:44:26.882 [main] INFO  resources.base - From the Home Page User has Clicked on MarkITPlace tab
+10:44:26.882 [main] INFO  resources.base - User has routed to the Shop Page after clicking on MarketPlace link
+10:44:28.983 [main] INFO  resources.base - From the Home Page User has Clicked on Manage tab
+10:44:31.029 [main] INFO  resources.base - From the Home Page User has Clicked on Insight tab
+10:44:31.214 [main] ERROR resources.base - Consulting link is found on home page
+10:44:31.297 [main] INFO  resources.base - DFP banner is appearing on the home page in the footer
+10:44:31.366 [main] INFO  resources.base - Featured Services section Heading is appearing on the home page
+10:44:31.478 [main] INFO  resources.base - In featured Services section get it now button is appearing on the home page
+10:44:31.520 [main] INFO  resources.base - Shop By Vendor section Heading is appearing on the home page
+10:44:31.560 [main] INFO  resources.base - Your Services Heading is appearing on the home page
+10:44:38.870 [main] INFO  resources.base - From the Home Page User has Clicked Get Now button from Services Section
+10:44:41.052 [main] INFO  resources.base - From the Pdp Page user is clicking on Get it now button
+10:44:48.814 [main] INFO  resources.base - Tenancy Information section is present on procurement checkout page
+10:44:48.842 [main] INFO  resources.base - Address of Use Section is present on procurement checkout page
+10:44:48.906 [main] INFO  resources.base - Payment & Billing Section is present on procurement checkout page
+10:44:48.939 [main] INFO  resources.base - Review Order Section is present on procurement checkout page
+10:44:51.112 [main] INFO  resources.base - From the procurement checkout page user is clicking on step#1 Yes button
+10:44:53.293 [main] INFO  resources.base - From the procurement checkout page user is clicking on step#1 continue button
+10:44:55.435 [main] INFO  resources.base - From the procurement checkout page user is clicking on step#1 continue button
+10:44:57.612 [main] INFO  resources.base - From the procurement checkout page user is clicking on step#3 continue button
+10:44:59.803 [main] INFO  resources.base - From the procurement checkout page user is clicking on submit order button
+10:45:13.922 [main] INFO  resources.base - From the Customer Portal user is clicking on notification icon
+10:45:14.051 [main] INFO  resources.base - All notifications tab is present on notification page
+10:45:14.096 [main] INFO  resources.base - Flagged tab is present on notification page
+10:45:18.901 [main] INFO  resources.base - From the Customer Portal user is clicking on User management from account menu
+10:45:21.313 [main] INFO  resources.base - User is entering ccp keyword in search box
+11:36:52.856 [main] INFO  resources.base - The title of the home page is captured
+11:36:52.856 [main] INFO  resources.base - The title of the Shop page is Verified Successfully
+11:37:00.556 [main] INFO  resources.base - From the Home Page User has Clicked on MarkITPlace tab
+11:37:00.556 [main] INFO  resources.base - User has routed to the Shop Page after clicking on MarketPlace link
+11:37:02.636 [main] INFO  resources.base - From the Home Page User has Clicked on Manage tab
+11:37:04.707 [main] INFO  resources.base - From the Home Page User has Clicked on Insight tab
+11:37:04.955 [main] ERROR resources.base - Consulting link is found on home page
+11:37:04.998 [main] INFO  resources.base - DFP banner is appearing on the home page in the footer
+11:37:05.035 [main] INFO  resources.base - Featured Services section Heading is appearing on the home page
+11:37:05.072 [main] INFO  resources.base - In featured Services section get it now button is appearing on the home page
+11:37:05.108 [main] INFO  resources.base - Shop By Vendor section Heading is appearing on the home page
+11:37:05.162 [main] INFO  resources.base - Your Services Heading is appearing on the home page
+11:37:15.364 [main] INFO  resources.base - From the Home Page User has Clicked Get Now button from Services Section
+11:37:17.559 [main] INFO  resources.base - From the Pdp Page user is clicking on Get it now button
+11:37:36.966 [main] INFO  resources.base - Tenancy Information section is present on procurement checkout page
+11:37:37.000 [main] INFO  resources.base - Address of Use Section is present on procurement checkout page
+11:37:37.030 [main] INFO  resources.base - Payment & Billing Section is present on procurement checkout page
+11:37:37.062 [main] INFO  resources.base - Review Order Section is present on procurement checkout page
+11:37:39.225 [main] INFO  resources.base - From the procurement checkout page user is clicking on step#1 Yes button
+11:37:41.369 [main] INFO  resources.base - From the procurement checkout page user is clicking on step#1 continue button
+11:37:43.531 [main] INFO  resources.base - From the procurement checkout page user is clicking on step#1 continue button
+11:37:45.676 [main] INFO  resources.base - From the procurement checkout page user is clicking on step#3 continue button
+11:37:47.801 [main] INFO  resources.base - From the procurement checkout page user is clicking on submit order button
+11:38:11.823 [main] INFO  resources.base - From the Customer Portal user is clicking on notification icon
+11:38:11.919 [main] INFO  resources.base - All notifications tab is present on notification page
+11:38:11.961 [main] INFO  resources.base - Flagged tab is present on notification page
+11:38:27.840 [main] INFO  resources.base - From the Customer Portal user is clicking on User management from account menu
+11:40:21.553 [main] INFO  resources.base - The title of the home page is captured
+11:40:21.553 [main] INFO  resources.base - The title of the Shop page is Verified Successfully
+11:40:30.617 [main] INFO  resources.base - From the Home Page User has Clicked on MarkITPlace tab
+11:40:30.617 [main] INFO  resources.base - User has routed to the Shop Page after clicking on MarketPlace link
+11:40:32.714 [main] INFO  resources.base - From the Home Page User has Clicked on Manage tab
+11:40:34.806 [main] INFO  resources.base - From the Home Page User has Clicked on Insight tab
+11:40:34.962 [main] ERROR resources.base - Consulting link is found on home page
+11:40:35.000 [main] INFO  resources.base - DFP banner is appearing on the home page in the footer
+11:40:35.041 [main] INFO  resources.base - Featured Services section Heading is appearing on the home page
+11:40:35.079 [main] INFO  resources.base - In featured Services section get it now button is appearing on the home page
+11:40:35.115 [main] INFO  resources.base - Shop By Vendor section Heading is appearing on the home page
+11:40:35.133 [main] INFO  resources.base - Your Services Heading is appearing on the home page
+11:40:43.916 [main] INFO  resources.base - From the Home Page User has Clicked Get Now button from Services Section
+11:40:46.250 [main] INFO  resources.base - From the Pdp Page user is clicking on Get it now button
+11:41:03.484 [main] INFO  resources.base - Tenancy Information section is present on procurement checkout page
+11:41:03.531 [main] INFO  resources.base - Address of Use Section is present on procurement checkout page
+11:41:03.580 [main] INFO  resources.base - Payment & Billing Section is present on procurement checkout page
+11:41:03.640 [main] INFO  resources.base - Review Order Section is present on procurement checkout page
+11:41:05.804 [main] INFO  resources.base - From the procurement checkout page user is clicking on step#1 Yes button
+11:41:07.949 [main] INFO  resources.base - From the procurement checkout page user is clicking on step#1 continue button
+11:41:10.119 [main] INFO  resources.base - From the procurement checkout page user is clicking on step#1 continue button
+11:41:12.296 [main] INFO  resources.base - From the procurement checkout page user is clicking on step#3 continue button
+11:41:14.428 [main] INFO  resources.base - From the procurement checkout page user is clicking on submit order button
+11:41:35.590 [main] INFO  resources.base - From the Customer Portal user is clicking on notification icon
+11:41:35.741 [main] INFO  resources.base - All notifications tab is present on notification page
+11:41:35.780 [main] INFO  resources.base - Flagged tab is present on notification page
+11:41:47.829 [main] INFO  resources.base - From the Customer Portal user is clicking on User management from account menu
+11:42:33.712 [main] ERROR resources.base - no such element: Unable to locate element: {"method":"xpath","selector":"//span[@class='alert-msg' and text()='The user bilawal.alam@arpatech.com has been invited successfully']"}
+  (Session info: chrome=74.0.3729.169)
+  (Driver info: chromedriver=2.36.540470 (e522d04694c7ebea4ba8821272dbef4f9b818c91),platform=Windows NT 10.0.17134 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.8.1', revision: '6e95a6684b', time: '2017-12-01T18:33:54.468Z'
+System info: host: 'DESKTOP-B75F35K', ip: '192.168.14.216', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_171'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.36.540470 (e522d04694c7eb..., userDataDir: C:\Users\bilaw\AppData\Loca...}, cssSelectorsEnabled: true, databaseEnabled: false, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 74.0.3729.169, webStorageEnabled: true}
+Session ID: 83bdafcae9b8a50362eb667634e7f615
+*** Element info: {Using=xpath, value=//span[@class='alert-msg' and text()='The user bilawal.alam@arpatech.com has been invited successfully']}
+11:42:36.041 [main] INFO  resources.base - User is entering ccp keyword in search box
+11:48:07.764 [main] INFO  resources.base - The title of the home page is captured
+11:48:07.764 [main] INFO  resources.base - The title of the Shop page is Verified Successfully
+11:50:07.973 [main] INFO  resources.base - From the Home Page User has Clicked on MarkITPlace tab
+11:50:07.973 [main] INFO  resources.base - User has routed to the Shop Page after clicking on MarketPlace link
+11:50:10.034 [main] INFO  resources.base - From the Home Page User has Clicked on Manage tab
+11:50:12.148 [main] INFO  resources.base - From the Home Page User has Clicked on Insight tab
+11:50:12.485 [main] ERROR resources.base - Consulting link is found on home page
+11:50:12.557 [main] INFO  resources.base - DFP banner is appearing on the home page in the footer
+11:50:12.620 [main] INFO  resources.base - Featured Services section Heading is appearing on the home page
+11:50:12.794 [main] INFO  resources.base - In featured Services section get it now button is appearing on the home page
+11:50:12.861 [main] INFO  resources.base - Shop By Vendor section Heading is appearing on the home page
+11:50:12.931 [main] INFO  resources.base - Your Services Heading is appearing on the home page
+11:50:24.796 [main] INFO  resources.base - From the Home Page User has Clicked Get Now button from Services Section
+11:50:27.033 [main] INFO  resources.base - From the Pdp Page user is clicking on Get it now button
+11:50:32.756 [main] INFO  resources.base - Tenancy Information section is present on procurement checkout page
+11:50:32.819 [main] INFO  resources.base - Address of Use Section is present on procurement checkout page
+11:50:32.889 [main] INFO  resources.base - Payment & Billing Section is present on procurement checkout page
+11:50:32.932 [main] INFO  resources.base - Review Order Section is present on procurement checkout page
+11:50:35.075 [main] INFO  resources.base - From the procurement checkout page user is clicking on step#1 Yes button
+11:50:37.159 [main] INFO  resources.base - From the procurement checkout page user is clicking on step#1 continue button
+11:50:39.273 [main] INFO  resources.base - From the procurement checkout page user is clicking on step#1 continue button
+11:50:41.428 [main] INFO  resources.base - From the procurement checkout page user is clicking on step#3 continue button
+11:50:43.589 [main] INFO  resources.base - From the procurement checkout page user is clicking on submit order button
+11:50:58.125 [main] INFO  resources.base - From the Customer Portal user is clicking on notification icon
+11:50:58.223 [main] INFO  resources.base - All notifications tab is present on notification page
+11:50:58.282 [main] INFO  resources.base - Flagged tab is present on notification page
+11:51:34.164 [main] INFO  resources.base - From the Customer Portal user is clicking on User management from account menu
+11:52:35.033 [main] ERROR resources.base - no such element: Unable to locate element: {"method":"xpath","selector":"//span[@class='alert-msg' and text()='The user bilawal.alam@arpatech.com has been invited successfully']"}
+  (Session info: chrome=74.0.3729.169)
+  (Driver info: chromedriver=2.36.540470 (e522d04694c7ebea4ba8821272dbef4f9b818c91),platform=Windows NT 10.0.17134 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.8.1', revision: '6e95a6684b', time: '2017-12-01T18:33:54.468Z'
+System info: host: 'DESKTOP-B75F35K', ip: '192.168.14.216', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_171'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.36.540470 (e522d04694c7eb..., userDataDir: C:\Users\bilaw\AppData\Loca...}, cssSelectorsEnabled: true, databaseEnabled: false, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 74.0.3729.169, webStorageEnabled: true}
+Session ID: d48caff1ae6287b531a31910834e6ddf
+*** Element info: {Using=xpath, value=//span[@class='alert-msg' and text()='The user bilawal.alam@arpatech.com has been invited successfully']}
+11:52:37.438 [main] INFO  resources.base - User is entering ccp keyword in search box
+11:59:21.001 [main] INFO  resources.base - The title of the home page is captured
+11:59:21.001 [main] INFO  resources.base - The title of the Shop page is Verified Successfully
+11:59:29.813 [main] INFO  resources.base - From the Home Page User has Clicked on MarkITPlace tab
+11:59:29.813 [main] INFO  resources.base - User has routed to the Shop Page after clicking on MarketPlace link
+11:59:31.895 [main] INFO  resources.base - From the Home Page User has Clicked on Manage tab
+11:59:33.944 [main] INFO  resources.base - From the Home Page User has Clicked on Insight tab
+11:59:34.226 [main] ERROR resources.base - Consulting link is found on home page
+11:59:34.267 [main] INFO  resources.base - DFP banner is appearing on the home page in the footer
+11:59:34.396 [main] INFO  resources.base - Featured Services section Heading is appearing on the home page
+11:59:34.438 [main] INFO  resources.base - In featured Services section get it now button is appearing on the home page
+11:59:34.476 [main] INFO  resources.base - Shop By Vendor section Heading is appearing on the home page
+11:59:34.520 [main] INFO  resources.base - Your Services Heading is appearing on the home page
+11:59:50.339 [main] INFO  resources.base - From the Home Page User has Clicked Get Now button from Services Section
+11:59:52.598 [main] INFO  resources.base - From the Pdp Page user is clicking on Get it now button
+12:00:13.334 [main] INFO  resources.base - Tenancy Information section is present on procurement checkout page
+12:00:13.389 [main] INFO  resources.base - Address of Use Section is present on procurement checkout page
+12:00:13.418 [main] INFO  resources.base - Payment & Billing Section is present on procurement checkout page
+12:00:13.482 [main] INFO  resources.base - Review Order Section is present on procurement checkout page
+12:00:15.661 [main] INFO  resources.base - From the procurement checkout page user is clicking on step#1 Yes button
+12:00:17.807 [main] INFO  resources.base - From the procurement checkout page user is clicking on step#1 continue button
+12:00:19.974 [main] INFO  resources.base - From the procurement checkout page user is clicking on step#1 continue button
+12:00:22.130 [main] INFO  resources.base - From the procurement checkout page user is clicking on step#3 continue button
+12:00:24.267 [main] INFO  resources.base - From the procurement checkout page user is clicking on submit order button
+12:00:38.199 [main] INFO  resources.base - From the Customer Portal user is clicking on notification icon
+12:00:38.322 [main] INFO  resources.base - All notifications tab is present on notification page
+12:00:38.367 [main] INFO  resources.base - Flagged tab is present on notification page
+12:00:42.754 [main] INFO  resources.base - From the Customer Portal user is clicking on User management from account menu
+12:00:45.212 [main] INFO  resources.base - User is entering ccp keyword in search box
+11:48:10.719 [main] INFO  resources.base - The title of the home page is captured
+11:48:10.719 [main] INFO  resources.base - The title of the Shop page is Verified Successfully
+11:48:20.000 [main] INFO  resources.base - From the Home Page User has Clicked on MarkITPlace tab
+11:48:20.000 [main] INFO  resources.base - User has routed to the Shop Page after clicking on MarketPlace link
+11:48:22.091 [main] INFO  resources.base - From the Home Page User has Clicked on Manage tab
+11:48:24.190 [main] INFO  resources.base - From the Home Page User has Clicked on Insight tab
+11:48:24.383 [main] ERROR resources.base - Consulting link is found on home page
+11:48:24.419 [main] INFO  resources.base - DFP banner is appearing on the home page in the footer
+11:48:24.455 [main] INFO  resources.base - Featured Services section Heading is appearing on the home page
+11:48:24.496 [main] INFO  resources.base - In featured Services section get it now button is appearing on the home page
+11:48:24.548 [main] INFO  resources.base - Shop By Vendor section Heading is appearing on the home page
+11:48:24.583 [main] INFO  resources.base - Your Services Heading is appearing on the home page
+11:48:34.921 [main] INFO  resources.base - From the Home Page User has Clicked Get Now button from Services Section
+11:48:37.117 [main] INFO  resources.base - From the Pdp Page user is clicking on Get it now button
+11:48:49.208 [main] INFO  resources.base - Tenancy Information section is present on procurement checkout page
+11:48:49.262 [main] INFO  resources.base - Address of Use Section is present on procurement checkout page
+11:48:49.320 [main] INFO  resources.base - Payment & Billing Section is present on procurement checkout page
+11:48:49.380 [main] INFO  resources.base - Review Order Section is present on procurement checkout page
+11:48:51.500 [main] INFO  resources.base - From the procurement checkout page user is clicking on step#1 Yes button
+11:48:53.653 [main] INFO  resources.base - From the procurement checkout page user is clicking on step#1 continue button
+11:48:55.759 [main] INFO  resources.base - From the procurement checkout page user is clicking on step#1 continue button
+11:48:57.893 [main] INFO  resources.base - From the procurement checkout page user is clicking on step#3 continue button
+11:49:00.032 [main] INFO  resources.base - From the procurement checkout page user is clicking on submit order button
+11:49:27.301 [main] INFO  resources.base - From the Customer Portal user is clicking on notification icon
+11:49:27.402 [main] INFO  resources.base - All notifications tab is present on notification page
+11:49:27.441 [main] INFO  resources.base - Flagged tab is present on notification page
+11:49:33.683 [main] INFO  resources.base - From the Customer Portal user is clicking on User management from account menu
+12:16:41.689 [main] INFO  resources.base - The title of the home page is captured
+12:16:41.689 [main] INFO  resources.base - The title of the Shop page is Verified Successfully
+12:16:49.108 [main] INFO  resources.base - From the Home Page User has Clicked on MarkITPlace tab
+12:16:49.108 [main] INFO  resources.base - User has routed to the Shop Page after clicking on MarketPlace link
+12:16:51.201 [main] INFO  resources.base - From the Home Page User has Clicked on Manage tab
+12:16:53.299 [main] INFO  resources.base - From the Home Page User has Clicked on Insight tab
+12:16:53.543 [main] ERROR resources.base - Consulting link is found on home page
+12:16:53.615 [main] INFO  resources.base - DFP banner is appearing on the home page in the footer
+12:16:53.652 [main] INFO  resources.base - Featured Services section Heading is appearing on the home page
+12:16:53.744 [main] INFO  resources.base - In featured Services section get it now button is appearing on the home page
+12:16:53.842 [main] INFO  resources.base - Shop By Vendor section Heading is appearing on the home page
+12:16:53.877 [main] INFO  resources.base - Your Services Heading is appearing on the home page
+12:17:00.586 [main] INFO  resources.base - From the Home Page User has Clicked Get Now button from Services Section
+12:17:02.795 [main] INFO  resources.base - From the Pdp Page user is clicking on Get it now button
+12:17:07.924 [main] INFO  resources.base - Tenancy Information section is present on procurement checkout page
+12:17:07.968 [main] INFO  resources.base - Address of Use Section is present on procurement checkout page
+12:17:08.016 [main] INFO  resources.base - Payment & Billing Section is present on procurement checkout page
+12:17:08.034 [main] INFO  resources.base - Review Order Section is present on procurement checkout page
+12:17:10.238 [main] INFO  resources.base - From the procurement checkout page user is clicking on step#1 Yes button
+12:17:12.422 [main] INFO  resources.base - From the procurement checkout page user is clicking on step#1 continue button
+12:17:14.566 [main] INFO  resources.base - From the procurement checkout page user is clicking on step#1 continue button
+12:17:16.716 [main] INFO  resources.base - From the procurement checkout page user is clicking on step#3 continue button
+12:17:18.881 [main] INFO  resources.base - From the procurement checkout page user is clicking on submit order button
+12:17:33.148 [main] INFO  resources.base - From the Customer Portal user is clicking on notification icon
+12:17:33.247 [main] INFO  resources.base - All notifications tab is present on notification page
+12:17:33.288 [main] INFO  resources.base - Flagged tab is present on notification page
+12:17:37.763 [main] INFO  resources.base - From the Customer Portal user is clicking on User management from account menu
+12:17:40.182 [main] INFO  resources.base - User is entering ccp keyword in search box
+12:19:38.303 [main] INFO  resources.base - The title of the home page is captured
+12:19:38.303 [main] INFO  resources.base - The title of the Shop page is Verified Successfully
+12:19:45.799 [main] INFO  resources.base - From the Home Page User has Clicked on MarkITPlace tab
+12:19:45.799 [main] INFO  resources.base - User has routed to the Shop Page after clicking on MarketPlace link
+12:19:47.869 [main] INFO  resources.base - From the Home Page User has Clicked on Manage tab
+12:19:49.969 [main] INFO  resources.base - From the Home Page User has Clicked on Insight tab
+12:19:50.241 [main] ERROR resources.base - Consulting link is found on home page
+12:19:50.314 [main] INFO  resources.base - DFP banner is appearing on the home page in the footer
+12:19:50.354 [main] INFO  resources.base - Featured Services section Heading is appearing on the home page
+12:19:50.518 [main] INFO  resources.base - In featured Services section get it now button is appearing on the home page
+12:19:50.551 [main] INFO  resources.base - Shop By Vendor section Heading is appearing on the home page
+12:19:50.583 [main] INFO  resources.base - Your Services Heading is appearing on the home page
+12:19:57.649 [main] INFO  resources.base - From the Home Page User has Clicked Get Now button from Services Section
+12:19:59.849 [main] INFO  resources.base - From the Pdp Page user is clicking on Get it now button
+12:20:05.853 [main] INFO  resources.base - Tenancy Information section is present on procurement checkout page
+12:20:05.878 [main] INFO  resources.base - Address of Use Section is present on procurement checkout page
+12:20:05.917 [main] INFO  resources.base - Payment & Billing Section is present on procurement checkout page
+12:20:05.988 [main] INFO  resources.base - Review Order Section is present on procurement checkout page
+12:20:08.120 [main] INFO  resources.base - From the procurement checkout page user is clicking on step#1 Yes button
+12:20:10.291 [main] INFO  resources.base - From the procurement checkout page user is clicking on step#1 continue button
+12:20:12.453 [main] INFO  resources.base - From the procurement checkout page user is clicking on step#1 continue button
+12:20:14.627 [main] INFO  resources.base - From the procurement checkout page user is clicking on step#3 continue button
+12:20:16.776 [main] INFO  resources.base - From the procurement checkout page user is clicking on submit order button
+12:20:31.154 [main] INFO  resources.base - From the Customer Portal user is clicking on notification icon
+12:20:31.283 [main] INFO  resources.base - All notifications tab is present on notification page
+12:20:31.330 [main] INFO  resources.base - Flagged tab is present on notification page
+12:20:35.921 [main] INFO  resources.base - From the Customer Portal user is clicking on User management from account menu
+12:22:22.026 [main] ERROR resources.base - no such element: Unable to locate element: {"method":"xpath","selector":"//span[@class='alert-msg' and text()='The user invite is sent successfully and the domain of invited user is added to the list as pending. once the invited user setup their account, the domain will automatically be active']"}
+  (Session info: chrome=74.0.3729.169)
+  (Driver info: chromedriver=2.36.540470 (e522d04694c7ebea4ba8821272dbef4f9b818c91),platform=Windows NT 10.0.17134 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.8.1', revision: '6e95a6684b', time: '2017-12-01T18:33:54.468Z'
+System info: host: 'DESKTOP-B75F35K', ip: '192.168.14.216', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_171'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.36.540470 (e522d04694c7eb..., userDataDir: C:\Users\bilaw\AppData\Loca...}, cssSelectorsEnabled: true, databaseEnabled: false, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 74.0.3729.169, webStorageEnabled: true}
+Session ID: d295492fb189784981d43a39e1f80946
+*** Element info: {Using=xpath, value=//span[@class='alert-msg' and text()='The user invite is sent successfully and the domain of invited user is added to the list as pending. once the invited user setup their account, the domain will automatically be active']}
+12:22:24.382 [main] INFO  resources.base - User is entering ccp keyword in search box
+12:30:10.293 [main] INFO  resources.base - The title of the home page is captured
+12:30:10.293 [main] INFO  resources.base - The title of the Shop page is Verified Successfully
+12:30:17.868 [main] INFO  resources.base - From the Home Page User has Clicked on MarkITPlace tab
+12:30:17.868 [main] INFO  resources.base - User has routed to the Shop Page after clicking on MarketPlace link
+12:30:19.945 [main] INFO  resources.base - From the Home Page User has Clicked on Manage tab
+12:30:22.041 [main] INFO  resources.base - From the Home Page User has Clicked on Insight tab
+12:30:22.293 [main] ERROR resources.base - Consulting link is found on home page
+12:30:22.337 [main] INFO  resources.base - DFP banner is appearing on the home page in the footer
+12:30:22.377 [main] INFO  resources.base - Featured Services section Heading is appearing on the home page
+12:30:22.442 [main] INFO  resources.base - In featured Services section get it now button is appearing on the home page
+12:30:22.502 [main] INFO  resources.base - Shop By Vendor section Heading is appearing on the home page
+12:30:22.541 [main] INFO  resources.base - Your Services Heading is appearing on the home page
